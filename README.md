@@ -1,6 +1,6 @@
 # Wildfire-E-commerce
 
-The British Columbia Wildfire Service (BCWS) Tool Shed represents a collaborative effort for COSC 304 (Introduction to Databases, Fall 2022) at UBCO. Running on Docker, it utilizes containers for SQL Server and Apache Tomcat. Apache Tomcat manages the Java servlets on the website, while SQL Server stores data such as products, orders, and customer details. The primary objective of the project was to create a website capable of communication with a database, achieved through SQL and a database driver.
+The British Columbia Wildfire Service (BCWS) Tool Shed project represents a collaborative effort for COSC 304 (Introduction to Databases, Fall 2022) at UBCO. Running on Docker, it utilizes containers for SQL Server and Apache Tomcat. Apache Tomcat manages the Java servlets on the website, while SQL Server stores data such as products, orders, and customer details. The primary objective of the project was to create a website capable of communication with a database, achieved through SQL and a database driver.
 
 ## Local Deployment
 
